@@ -37,9 +37,10 @@ This project uses computer vision and deep learning to detect and track vehicles
 
 ### 1. Clone the Repository
 
+git clone https://github.com/Dudekularajesh/vehicle-speed-tracking-yolo.git
 
-git clone https://github.com/yourusername/vehicle-speed-tracking-yolo.git
 cd vehicle-speed-tracking-yolo
+
 2. Install Dependencies
 
 pip install opencv-python pandas numpy ultralytics
